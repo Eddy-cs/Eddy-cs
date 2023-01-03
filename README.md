@@ -10,7 +10,7 @@ I'm a web developer with a focus on the MERN stack while exploring other technol
 * 🌍  I'm based in New York, NY
 * ✉️  Employers and freelance requests can contact me at [eddysr.cs@gmail.com](mailto:eddysr.cs@gmail.com)
 * 🧠  I'm focused on Typescript and React
-* 🤝  Here is my portfolio: [eddysanchez.netlify.app/](https://eddysanchez.netlify.app/)
+* 🤝  Here is my portfolio: [eddysanchez.dev](https://eddysanchez.dev)
 * ⚡  I'm interested in AI side projects with OpenAI and Dall-e2
 
 ## Languages and Tools:
