@@ -4,7 +4,7 @@ Hi 👋 My name is Eddy
 Full Stack Software Developer
 ------------------
 
-I'm a web developer with a focus on the MERN stack while exploring other technologies and frameworks that catch my interest! I'm always looking to improve my skills and build innovative web applications. Currently I'm dabbling on Typescript and Jest - if you're looking for a committed, team-player, and organized developer to add to your team, I'd love to hear from you!
+Software engineer with experience building innovative web applications. Skilled in leveraging various technologies and frameworks to create user-friendly solutions. Committed to delivering high-quality, detail-oriented work. Passionate about working collaboratively in a team environment. - if you're looking for a committed, team-player, and organized developer to add to your team, I'd love to hear from you!
 
 
 * 🌍  I'm based in New York, NY
